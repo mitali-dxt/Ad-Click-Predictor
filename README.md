@@ -24,7 +24,7 @@ This project is an implementation of the k-Nearest Neighbors (k-NN) algorithm us
 
 4.  Run the main application:
     ```bash
-    python main.py
+    python -m src.main
     ```
 
 ## Output
